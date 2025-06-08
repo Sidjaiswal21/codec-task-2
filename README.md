@@ -1,5 +1,5 @@
 # codec-task-2
-ecifying Analysis Question
+Specifying Analysis Question
 
 Create a Naive Bayes Calssification model to detect sspam emails.
 
